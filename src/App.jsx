@@ -30,7 +30,7 @@ const App = () => {
 
       <Header/>
 
-      <div className="shadow-2xl w-[22rem] md:w-96 bg-white h-96 z-50">
+      <div className="shadow-2xl w-[22rem] md:w-96 bg-white min-h-96 z-50">
 
         <div>
 
