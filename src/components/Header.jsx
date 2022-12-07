@@ -20,7 +20,7 @@ export const Header = () => {
   };
 
   return (
-    <div className="absolute right-10 top-3 flex w-24 gap-4">
+    <div className="absolute right-10 top-3 flex w-20 md:w-24 gap-4">
 
       <button onClick={() => cambiarIdioma({ estado: true })}>
         
