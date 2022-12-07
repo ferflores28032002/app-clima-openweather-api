@@ -21,9 +21,9 @@ const App = () => {
     }
   };
 
-  if (loading) {
-    return <Loading />;
-  }
+  // if (loading) {
+  //   return <Loading />;
+  // }
 
   return (
     <div className="relative min-h-screen flex items-center justify-center bg-indigo-800">
