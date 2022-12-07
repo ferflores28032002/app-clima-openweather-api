@@ -1,0 +1,10 @@
+{
+    "formSearch": "Search city ..",
+    "Loading": "Loading ...",
+    "NoEncontrada": "City not Found",
+    "city": {
+        "city1": "London",
+        "city2": "Toronto",
+        "city3": "singapore"
+    }
+}
