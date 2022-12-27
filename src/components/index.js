@@ -1,4 +1,5 @@
 
 
 
-export * from './Header.jsx'
+export * from './Header'
+export * from './InfoClima'
